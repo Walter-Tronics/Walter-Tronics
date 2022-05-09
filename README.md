@@ -1,4 +1,4 @@
-[![MasterHead](https://zdblogs.zohocorp.com/creator/decode/sites/creator/decode/files/2020-12/Low-Code-Banner-1900x900-final-aw-01-1-1160x550.png)]
+[![MasterHead](https://www.fscj.edu/images/default-source/workforce-education/progweb_1920x720.jpg?sfvrsn=f74686d5_0)]
 <h1 align="center">Hi 👋, I'm Walter Tronics</h1>
 <h3 align="center">A passionate frontend developer and a Tech Geek aspirant 😎</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">

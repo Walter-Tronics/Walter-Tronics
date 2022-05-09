@@ -1,7 +1,7 @@
-[![MasterHead](https://www.freepik.com/premium-vector/software-web-user-interface-development-cross-platform_3953233.htm?query=programming%20coding%20code)]
+[![MasterHead](https://zdblogs.zohocorp.com/creator/decode/sites/creator/decode/files/2020-12/Low-Code-Banner-1900x900-final-aw-01-1-1160x550.png)]
 <h1 align="center">Hi 👋, I'm Walter Tronics</h1>
 <h3 align="center">A passionate frontend developer and a Tech Geek aspirant 😎</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/premium-vector/software-web-user-interface-development-cross-platform_3953233.htm?query=programming%20coding%20code">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walter-tronics&label=Profile%20views&color=0e75b6&style=flat" alt="walter-tronics" /> </p>
 

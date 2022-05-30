@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Math Challenge Game**
 
-- 🌱 I’m currently learning **PHP, Ruby, JavaScript advance, React**
+- 🌱 I’m currently learning **PHP, Ruby, JavaScript advance, Python, React**
 
 - 👯 I’m looking to collaborate on **Front-end projects**
 

@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **waltertronics02@gmail.com**
 
-- ⚡ Fun fact **I'm an open mind 🧠**
+- ⚡ Fun fact **I'm an open mind🧠**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

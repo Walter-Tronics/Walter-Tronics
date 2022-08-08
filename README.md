@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walter-tronics&show_icons=true&locale=en&layout=compact" alt="walter-tronics" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walter-tronics&show_icons=true&locale=en&theme=synthwave" alt="walter-tronics" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walter-tronics&show_icons=true&locale=en&theme=buefy" alt="walter-tronics" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walter-tronics&theme=react" alt="walter-tronics" /></p>

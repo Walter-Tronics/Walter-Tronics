@@ -1,4 +1,9 @@
-[![MasterHead](https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/5%20Best%20Coding%20Programs%20for%20Aspiring%20Programmers1650304687858345.jpg)]
+{
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%"/>
+</div>
+}
+
 <h1 align="center">Hi 👋, I'm Walter Tronics</h1>
 <h3 align="center">A passionate frontend developer and a Tech Geek aspirant 😎</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">

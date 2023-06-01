@@ -42,6 +42,8 @@
   <span><img src="https://img.shields.io/badge/jQuery-20232A?style=for-the-badge&logo=jquery&logoColor=0769AD" alt="jquery" /></span>
   <span><img src="https://img.shields.io/badge/NPM-20232A?style=for-the-badge&logo=npm&logoColor=CB3837" alt="npm" /></span>
   <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></span>
+  <br/>
+  <br/>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walter-tronics&show_icons=true&locale=en&layout=compact" alt="walter-tronics" /></p>

@@ -28,15 +28,20 @@
 <a href="https://wa.me/2347033259012" target="blank"><img align="center" src="https://walter-tronics.github.io/media/icons/whatsapp icon.png" alt="whatsapp" height="35" width="35" /></a>
 </p>
 
+
+### 🛠 Languages and Tools:
 <h4>⚡ Languages:</h4>
   <span><img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="html" /></span>
   <span><img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="css" /></span>
   <span><img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E&background=F7DF1E" alt="js" /></span>
   
 <h4>⭐ Tools:</h4>
-  <span><img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="html" /></span>
-  <span><img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="css" /></span>
-  <span><img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E&background=F7DF1E" alt="js" /></span>
+  <span><img src="https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="vscode" /></span>
+  <span><img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032" alt="git" /><span>
+  <span><img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=181717" alt="github" /></span>
+  <span><img src="https://img.shields.io/badge/jQuery-20232A?style=for-the-badge&logo=jquery&logoColor=0769AD" alt="jquery" /></span>
+  <span><img src="https://img.shields.io/badge/NPM-20232A?style=for-the-badge&logo=npm&logoColor=CB3837" alt="npm" /></span>
+  <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></span>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

@@ -28,6 +28,16 @@
 <a href="https://wa.me/2347033259012" target="blank"><img align="center" src="https://walter-tronics.github.io/media/icons/whatsapp icon.png" alt="whatsapp" height="35" width="35" /></a>
 </p>
 
+<h4>⚡ Languages:</h4>
+  <span><img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="html" /></span>
+  <span><img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="css" /></span>
+  <span><img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E&background=F7DF1E" alt="js" /></span>
+  
+<h4>⭐ Tools:</h4>
+  <span><img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="html" /></span>
+  <span><img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="css" /></span>
+  <span><img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E&background=F7DF1E" alt="js" /></span>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>                   

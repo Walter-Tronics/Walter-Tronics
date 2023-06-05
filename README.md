@@ -35,8 +35,6 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Walter%20Tronics#9504)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-important?style=flat&logo=instagram&logoColor=white)](https://instagram.com/walter_tronics)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/walter's%20hub)
-<a href="https://instagram.com/walter_tronics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="walter_tronics" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/walter's hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="walter's hub" height="30" width="40" /></a>
 <!--[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/TheAce74)-->
 
 

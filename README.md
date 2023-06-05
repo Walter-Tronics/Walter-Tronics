@@ -32,9 +32,9 @@
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chisom-udonsi-45196b216)-->
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-success?style=flat&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=2347033259012)
-[![Discord Badge](https://img.shields.io/badge/-Discord-red?style=flat&logo=youtube&logoColor=white)](https://discordapp.com/users/Walter-Tronics#9504)
-[![Discord Badge](https://img.shields.io/badge/-Discord-red?style=flat&logo=youtube&logoColor=white)](https://discordapp.com/users/Walter-Tronics#9504)
-[![Discord Badge](https://img.shields.io/badge/-Discord-red?style=flat&logo=youtube&logoColor=white)](https://discordapp.com/users/Walter-Tronics#9504)
+[![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Walter-Tronics#9504)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-important?style=flat&logo=instagram&logoColor=white)](https://discordapp.com/users/Walter-Tronics#9504)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://discordapp.com/users/Walter-Tronics#9504)
 <a href="https://instagram.com/walter_tronics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="walter_tronics" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/walter's hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="walter's hub" height="30" width="40" /></a>
 <!--[![Youtube Badge](https://img.shields.io/badge/-YouTube-red?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Walter-Tronics#9504)-->

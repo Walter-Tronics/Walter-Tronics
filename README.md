@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walter-tronics&label=Profile%20views&color=0e75b6&style=flat" alt="walter-tronics" /> </p>
 
-- 🔭 I’m currently working on **a Joint Math Challenge Game**
+- 🔭 I’m currently working on **a Math Challenge Game**
 
 - 🌱 I’m currently learning **PHP, Ruby, JavaScript Advance, Python, React**
 

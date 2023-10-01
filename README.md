@@ -5,7 +5,7 @@
 }
 
 <h1 align="center">Hi 👋, I'm Walter Tronics</h1>
-<h3 align="center">A passionate frontend developer and a Tech Geek aspirant 😎</h3>
+<h3 align="center">A passionate frontend developer and a Tech Geek aspirant 😎✨</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walter-tronics&label=Profile%20views&color=0e75b6&style=flat" alt="walter-tronics" /> </p>

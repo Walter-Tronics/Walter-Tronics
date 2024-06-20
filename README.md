@@ -36,6 +36,8 @@
   <span><img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="html" /></span>
   <span><img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="css" /></span>
   <span><img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E&background=F7DF1E" alt="js" /></span>
+  <span><img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=%233776AB" alt="python" /></span>
+  
   
 <h4>⭐ Tools:</h4>
   <span><img src="https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="vscode" /></span>
